@@ -1,0 +1,21 @@
+. Eclipse
+https://www.eclipse.org/downloads/
+
+
+
+you will need to install some Java virtual machine (JVM). You may either install a Java Runtime Environment (JRE), or a Java Development Kit (JDK), depending on what you want to do with Eclipse. If you intend to use Eclipse for Java development, then you should install a JDK
+-----------------------------------------
+2. MySQL Community Installation
+software download:
+https://dev.mysql.com/downloads/mysql/
+5. Anypoint platform
+- Apoint Studio
+- Account
+https://www.mulesoft.com/lp/dl/studio
+----------------------------------
+6. tools
+SoapUI
+https://www.soapui.org/downloads/soapui/
+Postman
+https://www.postman.com/downloads/
+Text editor/with plugin
